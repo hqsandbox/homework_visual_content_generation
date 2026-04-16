@@ -1,0 +1,33 @@
+# Data
+data/raw/
+# data/processed/
+data/yae_miko_raw/
+data/_selected_100.txt
+
+# Outputs
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+
+# Environment
+.venv/
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.log
+wandb/
+
+paper/
